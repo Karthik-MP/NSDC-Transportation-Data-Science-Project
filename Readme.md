@@ -56,3 +56,5 @@ This project provides valuable insights into the factors contributing to motor v
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Karthik-MP/NSDC-Transportation-Data-Science-Project.git
+
+2. [Download Dataset](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
