@@ -42,6 +42,33 @@ The goal of this milestone is to explore the geographical aspects of the dataset
 - **Highest Number of Crashes**: Brooklyn has the highest number of crashes, likely due to its high population density and traffic volume.
 - **Lowest Number of Crashes**: Staten Island has the lowest number of crashes, likely due to its lower population density and less traffic congestion.
 
+### Visualizations
+Below are some key visualizations created during this analysis:
+
+#### Average Number of Crashes
+
+This chart shows the average number of crashes occurring across different years, helping to identify any patterns or trends in crash frequency over time.
+> ![image](AvergeNumberOfCrashes.png)
+
+#### Contributing Factors
+
+This visualization represents the main factors that contribute to accidents. It highlights common causes like distracted driving, failure to yield, and following too closely, which are essential for public awareness campaigns.
+> ![image](ContributingFactors.png)
+#### Types of Crashes
+
+This graph categorizes crashes by type (e.g., rear-end, head-on), providing insight into how different crash types are distributed across the dataset.
+> ![image](TypesOfCrashes.png)
+
+#### Vehicle Types Involved in Crashes
+
+This chart shows the various types of vehicles involved in collisions. Understanding this breakdown helps target specific vehicle safety measures.
+> ![image](VehicleTypes.png)
+
+#### Distribution of Crashes by Borough
+
+This map shows how crashes are distributed across New York City boroughs. It reveals which areas have the highest and lowest frequency of crashes, guiding efforts to improve road safety in specific locations.
+> ![image](DistributionofCrashesByBorough.png)
+
 ## Conclusion
 This project provides valuable insights into the factors contributing to motor vehicle crashes in New York City, as well as time and spatial trends that can inform public safety initiatives. It emphasizes the importance of ethical considerations when working with real-world datasets and highlights key patterns and recommendations for improving road safety.
 
@@ -56,3 +83,5 @@ This project provides valuable insights into the factors contributing to motor v
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Karthik-MP/NSDC-Transportation-Data-Science-Project.git
+
+2. [Download Dataset](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
